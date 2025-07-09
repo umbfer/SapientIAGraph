@@ -1,4 +1,8 @@
 # SapientIAGraph
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15848083.svg)](https://doi.org/10.5281/zenodo.15848083)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![GitHub stars](https://img.shields.io/github/stars/umbfer/SapientIAGraph?style=social)](https://github.com/umbfer/SapientIAGraph/stargazers)
+[![Topics](https://img.shields.io/badge/tags-Knowledge%20Graph%2C%20LLM%2C%20Neo4j%2C%20University%20Data%2C%20Open%20Data-blue)](https://github.com/umbfer/SapientIAGraph)
 
 **SapientIAGraph** is an open knowledge graph describing the structure of all degree programs offered by Sapienza University of Rome.  
 It is released as part of the paper:  
