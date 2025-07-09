@@ -3,6 +3,8 @@
 **SapientIAGraph** is an open knowledge graph describing the structure of all degree programs offered by Sapienza University of Rome.  
 It is released as part of the paper:  
 _"SapientIAGraph: An Open Knowledge Graph of University Degree Programs at Sapienza"_.
+(to be presented at [K-GALS @ ADBIS 2025](https://cmt3.research.microsoft.com/KGAL2025), Tampere (Finland), Sept 23, 2025)
+
 
 - 309 degree programs  
 - 10,000+ teaching modules  
