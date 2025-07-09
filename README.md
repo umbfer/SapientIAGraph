@@ -90,6 +90,27 @@ SapientIAGraph/
 ```
 
 
+## Citation
+
+If you use **SapientIAGraph** in your research, please cite the following work:
+
+> Di Rocco L., Ferraro Petrillo U., Ceccaroni R. (2025). *SapientIAGraph: An Open Knowledge Graph of University Degree Programs at Sapienza*. Proceedings of the K-GALS 2025 Workshop @ ADBIS. Tampere, Finland.  
+> [https://doi.org/10.5281/zenodo.15848083](https://doi.org/10.5281/zenodo.15848083)
+
+### BibTeX
+
+```bibtex
+@inproceedings{SapientIAGraph2025,
+  author    = {Lorenzo Di Rocco and Umberto Ferraro Petrillo and Riccardo Ceccaroni},
+  title     = {SapientIAGraph: An Open Knowledge Graph of University Degree Programs at Sapienza},
+  booktitle = {Proceedings of the K-GALS 2025 Workshop @ ADBIS},
+  year      = {2025},
+  address   = {Tampere, Finland},
+  doi       = {10.5281/zenodo.15848083},
+  url       = {https://doi.org/10.5281/zenodo.15848083}
+}
+```
+
 ## License
 
 Distributed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
